@@ -1,9 +1,12 @@
 # java-scrip-conEDI-1
 descripcion de java scrip  TP de verano
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjblPju99bjAhXdIbkGHTbFBxoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.deimoscode.com%2Fpost%2Fverificar-el-estado-de-internet-sesion-del-usuario-y-otros-errores-via-javascript&psig=AOvVaw1C-ugPuaWHMaatzWx08dci&ust=1564380002364008
+--
  
 https://www.deimoscode.com/files/javascript.jpeg
-¿Que es JavaScript?
+#
+
+¿Que es JavaScrpt?
+
 Javascript es un lenguaje de programación que permite a los desarrolladores crear acciones en sus páginas web. 
 ¿Para qué se puede usar Javascript?
 Javascript es un lenguaje que puede ser utilizado por profesionales y para quienes se inician en el desarrollo y diseño de sitios web. No requiere de compilación ya que el lenguaje funciona del lado del cliente, los navegadores son los encargados de interpretar estos códigos.
